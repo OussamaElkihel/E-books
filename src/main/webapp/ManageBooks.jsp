@@ -40,7 +40,7 @@ request.setAttribute("book_list", bookList);
 
 	<div class="container my-3">
 		<div class="d-flex py-3">
-			<h3>Manage Users :</h3>
+			<h3>Manage Books :</h3>
 		</div>
 		<table class="table table-light">
 			<thead>
